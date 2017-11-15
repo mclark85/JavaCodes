@@ -1,2 +1,6 @@
+String day
+
 System.out.prinln("Hello World");
-System.out.print("Goodbye");
+System.out.println("How was you're day?");
+day = nextLine();
+System.out.println("Goodbye!");
